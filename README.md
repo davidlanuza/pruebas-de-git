@@ -1,2 +1,2 @@
 # pruebas-de-git
- iniciando
+ iniciando mostrando pruebas
